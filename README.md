@@ -1,5 +1,5 @@
 # POOStudies
-Repositório para gerenciar meus estudos sobre Programação orientada a objetos 
+Repositório para gerenciar meus estudos sobre Programação orientada a objetos <br/>
 Repository to maintain my studies about object-oriented programming
 
 
